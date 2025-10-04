@@ -1,4 +1,3 @@
-# Besant_Technology_Project
 # Rock Paper Scissors Game
 
 A simple yet fun **console-based Python project** that lets users play the classic **Rock Paper Scissors** game against the computer.  
